@@ -10,6 +10,7 @@ const App = () => {
     mx-auto bg-orange-quaternary relative'>
       <Header />
     <Hero />
+    <div className='h-[2000px]'></div>
    </div>
   );
 };
